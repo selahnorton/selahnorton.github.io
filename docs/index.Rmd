@@ -1,0 +1,34 @@
+---
+title: "Selah Norton"
+image: "selah.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/selah-norton-01b524334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+  - label: GitHub
+    url: "https://github.com/selahnorton"
+  - label: Email
+    url: "mailto:selah@utexas.edu"
+output:
+  postcards::trestles
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+I am a student at University of Texas at Austin studying statistics and
+data science and also receiving a certificate in programming and
+computation along with a minor in sociology. I am twenty one years old,
+an aunt, and a dog lover. I enjoy listening to music, journaling,
+running, reading, and watching movies in my free time.
+
+My favorites movies currently:
+
+-   Bottoms
+-   Aftersun
+-   Juno
+-   Donnie Darko
+
+```{r, echo=FALSE}
+format(Sys.time())
+```
+
